@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 - 🌱 I am a passionate Cyber Security Specialist dedicated to fortifying digital defenses through comprehensive web application penetration testing.
-- 🌱 CTF Player
+- 🕹️ CTF Player
+- 🎓 Student
+- 🔒 Cyber security 
+- 📚 Toturials | Tips | Tools
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
