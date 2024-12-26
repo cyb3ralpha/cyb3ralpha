@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I am Abdulah Ismail AKA Cyb3r Alpha 👋
 
 - 🌱 I am a passionate Cyber Security Specialist dedicated to fortifying digital defenses through comprehensive web application penetration testing.
 - 🕹️ CTF Player
