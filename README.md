@@ -9,19 +9,19 @@
 - 🔒 Cyber security 
 - 📚 Toturials | Tips | Tools
 
-## 🚀 Technologies I Use
+<!--## 🚀 Technologies I Use
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+-->
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cyb3ralpha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3ralpha&layout=compact&theme=radical)
 
-## 🚀 Top Projects
+<!-- ## 🚀 Top Projects
 - [500-AI-ML-DL-CV-NLP-Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code): 500+ AI and ML projects with code.
 - [LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning): Fine-tuning large language models with PEFT.
-
+-->
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahismail)
@@ -39,4 +39,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-->
+-->
