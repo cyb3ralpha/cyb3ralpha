@@ -1,6 +1,6 @@
 ## Hi there! I am Abdulah Ismail AKA Cyb3r Alpha 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=cyb3ralpha&color=red)
 ![GitHub followers](https://img.shields.io/github/followers/cyb3ralpha?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/cyb3ralpha?style=social)
 [![Stars](https://img.shields.io/github/stars/cyb3ralpha/cyb3ralpha?style=flat-square&logo=github)](https://github.com/YourUsername/YourRepository/stargazers)
