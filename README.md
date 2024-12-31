@@ -9,8 +9,7 @@
 [![Issues](https://img.shields.io/github/issues/cyb3ralpha/cyb3ralpha?style=flat-square&logo=github)](https://github.com/cyb3ralpha/YourRepository/issues)
 [![Contributors](https://img.shields.io/github/contributors/cyb3ralpha/cyb3ralpha?style=flat-square&logo=github)](https://github.com/cyb3ralpha/cy3ralpha/graphs/contributors)
 [![License](https://img.shields.io/github/license/cyb3ralpha/cyb3ralpha?style=flat-square&logo=open-source-initiative)]()
-[![Join Community](https://img.shields.io/badge/Join_Our_Community-blue?style=flat-square&logo=github)](https://github.com/cyb3ralpha/cyb3ralpha/community)
-
+[![Join Community](https://img.shields.io/badge/Join_Our_Community-blue?style=flat-square&logo=github)](https://whatsapp.com/channel/0029VawvPP0LNSa9ZfpFwN3J)
 
 - 🌱 I am a passionate Cyber Security Specialist dedicated to fortifying digital defenses through comprehensive web application penetration testing.
 - 🕹️ CTF Player
